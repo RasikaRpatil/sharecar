@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# CarShare
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Tired of searching for a ‘rent a car near me’? You have reached your destination.**CarShare** is a leading car rental marketplace in India featuring budget-friendly car hire deals from reliable rental car companies in the region. You can choose from our extensive inventory of over **1500 vehicles** listed by the trusted car rental business in the India. Whether you’re a tourist looking for a car facility or a resident in search of long term rentals, we assure you the cheapest rent cars at best prices starting as low as **3K** per day.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Install CarShare with npm
 
-### `npm test`
+```bash
+  npm install 
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
+# 1 
+<img width="950" alt="NavBar" src="https://user-images.githubusercontent.com/113360387/209343219-b6191d6e-c108-4c40-90e5-23453be6b03d.png">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 2
+<img width="949" alt="Find me a car" src="https://user-images.githubusercontent.com/113360387/209343423-ec33fe45-8cf2-4517-b6dc-08d1d1267228.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 3
+<img width="950" alt="Find me a car1" src="https://user-images.githubusercontent.com/113360387/209343451-92eff7ef-5db5-47d0-87a0-747ee13dd556.png">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 4
+<img width="949" alt="calculate a cost" src="https://user-images.githubusercontent.com/113360387/209343534-65854d70-d33c-4a51-9b4b-c2ade65a4da4.png">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# 5
+<img width="946" alt="Brands" src="https://user-images.githubusercontent.com/113360387/209343628-6a699874-d4b9-442b-95cc-3622f1b4217e.png">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# 6
+<img width="940" alt="fleet" src="https://user-images.githubusercontent.com/113360387/209343677-ee7b4f28-fc42-4e5a-bb9a-6e76e7059fa1.png">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 7
+<img width="949" alt="calculate a cost" src="https://user-images.githubusercontent.com/113360387/209343748-0e46bd72-3e03-4da8-bf0f-d0af4b7472e1.png">
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# 8
+<img width="946" alt="clients" src="https://user-images.githubusercontent.com/113360387/209343824-2bb1e8f8-ca12-4876-b6f0-ba45b34d7a65.png">
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# 9
+<img width="944" alt="services" src="https://user-images.githubusercontent.com/113360387/209343891-96e2e7f4-b061-4786-965e-481efe986eca.png">
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 10
+<img width="941" alt="guide" src="https://user-images.githubusercontent.com/113360387/209343965-d0de06d8-4c6f-4b3a-847d-914f3303cfc7.png">
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# 11
+<img width="946" alt="About us" src="https://user-images.githubusercontent.com/113360387/209344086-501fad47-02a3-4007-b91f-db263e99cb41.png">
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# 12
+<img width="945" alt="why choose us" src="https://user-images.githubusercontent.com/113360387/209344280-9ee1ce68-f2f9-4e1f-b26c-c5ab5a2653b2.png">
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 13
+<img width="945" alt="Our Specialities" src="https://user-images.githubusercontent.com/113360387/209344317-3d590aed-8f93-48f4-90ea-b98a1f2f0dd9.png">
+
+
+# 14
+<img width="941" alt="Contacts" src="https://user-images.githubusercontent.com/113360387/209344395-ae4eb961-2994-465a-84c0-21a84524440d.png">
+
+
+# 15
+<img width="289" alt="Login" src="https://user-images.githubusercontent.com/113360387/209344500-0b244f35-49c1-470a-8b62-b8a8ebece695.png">
+
+  
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS , React , Mongodb , SQL...
+
+
+## Tech Stack
+
+**Client:** React, Redux, html , css
+
+
+## Authors
+
+- [@RasikaRpatil](https://github.com/RasikaRpatil)
+
