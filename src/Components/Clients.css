@@ -1,0 +1,47 @@
+.client-title {
+    color: #222;
+    font-size: 2.5rem;
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+.client-container {
+   display: block;
+   margin-left: 6%;
+}
+
+ 
+
+
+.gallery {
+    margin: 6px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 270px;
+    padding: 0;
+}
+
+.gallery:hover {
+    border: 2px solid rgb(244, 64, 4);
+}
+
+
+.Client-ima{
+
+    height: auto;
+    width: 100%;
+}
+
+
+.Client-Col {
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.Client-image {
+    height: 200px;
+    width: 24%;
+    margin-left: 1%;
+    /* flex-wrap: wrap; */
+}
